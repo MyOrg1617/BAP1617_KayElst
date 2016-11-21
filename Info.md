@@ -1,4 +1,4 @@
-tagnaam Kay Elst Lameir naamtag
+tagnaam Kay Elst naamtag
 taggitnaam kayelst gitnaamtag
 tagreponaam Project Kay reponaamtag
 tagpromotor Tim Dams promotortag
