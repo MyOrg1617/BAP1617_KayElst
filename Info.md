@@ -1,13 +1,10 @@
-fqsdfqsdfqsdfqs
+#Repo Info Kay Elst
 
+<!---naam -->Naam: Kay 
+<!---gitnaam -->GitNaam: Kayke
+<!---reponaam -->RepoNaam: KaysProject
+<!---promotor -->Promotor: Bryan
+<!---phone -->Telefoon: 036889574
+<!---address -->Address kiwi 69 2940 stabroek <!---end -->
 
-
-
-
-<!---naam -->Kay 
-<!---gitnaam -->Kayke
-<!---reponaam -->KaysProject
-<!---promotor -->Bryan
-<!---phone -->036889574
-<!---address -->kiwi 69 2940 stabroek <!---end -->
-qqdsfqsdfqsdh
+Some useless info
