@@ -1,10 +1,10 @@
 #Repo Info Kay Elst
 
-<!---naam -->Naam: Kay 
-<!---gitnaam -->GitNaam: Kayke
-<!---reponaam -->RepoNaam: KaysProject
-<!---promotor -->Promotor: Bryan
+<!---naam -->Naam: Kay Elst
+<!---gitnaam -->GitNaam: kayelst
+<!---reponaam -->RepoNaam: BAP1617_KayElst
+<!---promotor -->Promotor: Tim Dams
 <!---phone -->Telefoon: 036889574
-<!---address -->Address: kiwi 69 2940 stabroek <!---end -->
+<!---address -->Address: leopoldstraat 69 2940 essen <!---end -->
 
-Some useless info
+Some other info
