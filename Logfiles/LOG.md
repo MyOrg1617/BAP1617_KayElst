@@ -1,4 +1,6 @@
-# Logboek **Michael Marivoet**
+﻿# Logboek **Michael Marivoet**
+
+
 
 ## Week 1 (15/02/16 - 21/02/16)
 ### Maandag
@@ -29,7 +31,7 @@ het internet en alles geupdate.
 ### Vrijdag
 * Les: Professionalisering
 
-## Week 2 (22/02/16 - 28/02/16)
+## Week 2 (22/02/16 - 28/02/16) 
 ### Maandag
 * Aanpassing aan arduino seriële commando met oog op het gebruikt van MQTT.
 * Verder onderzoek gedaan omtrent MQTT op Raspberry Pi en nodejs. Onderzocht of Node-Red kan gebruikt worden om makkelijker te ontwikkelen.
@@ -56,7 +58,7 @@ het internet en alles geupdate.
 ### Vrijdag
 * Les: Professionalisering
 
-## Week 3 (29/02/16 - 06/03/16)
+## Week 3 (02/01/2017 - 08/01/2017)
 ### Maandag
 * Onderzoek gedaan omtrent het vervangen van de MySQL server op de Raspberry Pi.
 * Het aanpassen van de python scripts van mijn voorganger. Dit resulteerde door een onbekende reden in corruptie van de 2de partitie (waar commandfile zich bevindt).
@@ -86,6 +88,8 @@ Had hier wel enkele problemen met onder andere python te installeren, mits de Ra
 
 ### Vrijdag
 * Les: Professionalisering
+
+<--!start-->
 
 ## Week 4 (07/03/16 - 13/03/16)
 ### Maandag
@@ -117,6 +121,8 @@ Dit stond vermeld op de blog van de ontwikkelaar.
 
 ### Vrijdag
 * Vrijaf genomen
+
+<--!end-->
 
 ## Week 5 (14/03/16 - 20/03/16)
 ### Maandag
