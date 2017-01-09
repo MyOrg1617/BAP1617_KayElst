@@ -89,9 +89,7 @@ Had hier wel enkele problemen met onder andere python te installeren, mits de Ra
 ### Vrijdag
 * Les: Professionalisering
 
-<--!start-->
-
-## Week 4 (07/03/16 - 13/03/16)
+## Week 4 (09/01/2017 - 15/01/2017)
 ### Maandag
 * XFCE verwijderd en LXDE geïnstalleerd, wegens problemen met Xming (reageerde zeer slecht en traag). Ik heb ook na onderzoek vernomen dat XFCE meer resources verbruikt dan LXDE.
 * Python libraries geinstalleerd om te kunnen werken met smartcard reader (pyscard), sqlite databases, gpio pinnen raspberry & paho mqtt client. Doordat de ACSCCID driver ontbreekte kon ik nog niet
